@@ -5,6 +5,7 @@ gem 'bootstrap-sass'
 gem 'less-rails'
 gem 'therubyracer'
 gem "font-awesome-rails"
+gem 'flexslider', :git => 'https://github.com/constantm/Flexslider-2-Rails-Gem.git'
 
 group :development, :test do
   gem 'sqlite3'
